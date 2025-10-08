@@ -1,0 +1,38 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Attack on Titan",
+            "director": "Hajime Isayama",
+            "year": 2013,
+            "genre": "Animation"
+        },
+        {
+            "id": 2,
+            "title": "Jujutsu Kaisen",
+            "director": "Sunghoo Park",
+            "year": 2020,
+            "genre": "Animation"
+        },
+        {
+            "id": 3,
+            "title": "Naruto",
+            "director": "Masashi Kishimoto",
+            "year": 2002,
+            "genre": "Animation"
+        },
+        {
+            "id": 4,
+            "title": "Demon Slayer",
+            "director": "Haruo Sotozaki",
+            "year": 2020,
+            "genre": "Animation"
+        },
+        {
+            "title": "Black Clover",
+            "director": "Christopher Nolan",
+            "year": 2008,
+            "genre": "Action"
+        }
+    ]
+}
